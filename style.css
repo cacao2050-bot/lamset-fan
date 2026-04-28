@@ -1,0 +1,7 @@
+body {
+  background-image: url("art touch.png");
+  background-size: cover;       /* تغطي الصفحة كاملة */
+  background-position: center;  /* تكون في النص */
+  background-repeat: no-repeat; /* ما تتكرر */
+  min-height: 100vh;
+}
